@@ -1,0 +1,21 @@
+# Virtual environment
+venv/
+ENV/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Flask stuff
+instance/
+*.db
+
+
+# IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
