@@ -1,0 +1,12 @@
+Flask==2.2.3 
+Flask-SQLAlchemy==3.0.2
+Flask-Migrate==4.0.4
+psycopg2-binary==2.9.6 
+boto3==1.28.19 
+Flask-JWT-Extended==4.4.4 
+marshmallow==3.19.0 
+marshmallow-sqlalchemy==0.28.1 
+#celery==5.3.1 redis==4.5.5 
+python-dotenv==1.0.0 
+Flask-Bcrypt==1.0.1 
+pytest==7.4.0
